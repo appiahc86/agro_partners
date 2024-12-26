@@ -1,0 +1,77 @@
+<script setup>
+import { RouterLink } from "vue-router"
+
+
+</script>
+
+<template>
+  <footer id="footer" class="footer dark-background">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-4 col-md-6 footer-about">
+            <a href="" class="logo d-flex align-items-center">
+              <span class="sitename">Agro Partners GH</span>
+            </a>
+            <div class="footer-contact pt-3">
+              <p> Plt 52 Blk C</p>
+              <p>Agric Nzema, Kumasi</p>
+              <p class="mt-3">
+                <a href="tel:+233248714806" style="color: white;">
+                  <strong>Phone:</strong> <span style="text-decoration: none !important;">+233 248 714 806</span>
+                </a>
+              </p>
+              <p><strong>Email:</strong> <span>info@agropartnersgh.com</span></p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-3 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><router-link :to="{name: 'home'}">Home</router-link></li>
+              <li><router-link :to="{name: 'about'}">About us</router-link></li>
+              <li><router-link :to="{name: 'services'}">Services</router-link></li>
+              <li><router-link :to="{name: 'contact'}">Contact</router-link></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-3 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><a href="#">Crop Management</a></li>
+              <li><a href="#">Pest Control</a></li>
+              <li><a href="#">Farm Equipment Supply</a></li>
+              <li><a href="#">Consultation Services</a></li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="copyright text-center">
+      <div class="container d-flex flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center">
+
+        <div class="d-flex flex-column align-items-center align-items-lg-start">
+          <div>
+            © Copyright <strong><span>Agro Partners GH</span></strong>. All Rights Reserved
+          </div>
+        </div>
+
+        <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
+          <a href="#"><i class="bi bi-twitter-x"></i></a>
+          <a href="#"><i class="bi bi-facebook"></i></a>
+          <a href="#"><i class="bi bi-instagram"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+
+      </div>
+    </div>
+
+  </footer>
+</template>
+
+<style scoped>
+
+</style>
