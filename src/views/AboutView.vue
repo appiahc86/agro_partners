@@ -42,7 +42,7 @@ import AboutComponent from "@/components/AboutComponent.vue";
             <div class="col-lg-3 col-md-6 mb-4">
               <div class="person">
                 <figure>
-                  <img src="/img/team/samuel.jpg" alt="Image" class="img-fluid w-100">
+                  <img src="/img/pro2.svg" alt="Image" class="img-fluid w-100">
                   <div class="social">
                     <a href="#"><span class="bi bi-facebook"></span></a>
                     <a href="#"><span class="bi bi-twitter-x"></span></a>
@@ -59,7 +59,7 @@ import AboutComponent from "@/components/AboutComponent.vue";
             <div class="col-lg-3 col-md-6 mb-4">
               <div class="person">
                 <figure>
-                  <img src="/img/team/sebe.jpg" alt="Image" class="img-fluid w-100">
+                  <img src="/img/pro2.svg" alt="Image" class="img-fluid w-100">
                   <div class="social">
                     <a href="#"><span class="bi bi-facebook"></span></a>
                     <a href="#"><span class="bi bi-twitter-x"></span></a>
@@ -76,7 +76,7 @@ import AboutComponent from "@/components/AboutComponent.vue";
             <div class="col-lg-3 col-md-6 mb-4">
               <div class="person">
                 <figure>
-                  <img src="/img/team/ellen.jpg" alt="Image" class="img-fluid w-100">
+                  <img src="/img/pro2.svg" alt="Image" class="img-fluid w-100">
                   <div class="social">
                     <a href="#"><span class="bi bi-facebook"></span></a>
                     <a href="#"><span class="bi bi-twitter-x"></span></a>
@@ -93,7 +93,7 @@ import AboutComponent from "@/components/AboutComponent.vue";
             <div class="col-lg-3 col-md-6 mb-4">
               <div class="person">
                 <figure>
-                  <img src="/img/team/constance.jpeg" alt="Image" class="img-fluid w-100">
+                  <img src="/img/pro2.svg" alt="Image" class="img-fluid w-100">
                   <div class="social">
                     <a href="#"><span class="bi bi-facebook"></span></a>
                     <a href="#"><span class="bi bi-twitter-x"></span></a>

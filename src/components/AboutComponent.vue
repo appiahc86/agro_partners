@@ -15,7 +15,7 @@ const router = useRouter();
     <div class="container">
       <div class="row gy-4 justify-content-between align-items-center">
         <div class="col-lg-6 order-lg-2 position-relative" data-aos="zoom-out">
-          <img src="/img/about.jpeg" alt="Image" class="img-fluid">
+          <img src="/img/home/home2.webp" alt="Image" class="img-fluid">
           <!--              <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn">-->
           <!--                <span class="play"><i class="bi bi-play-fill"></i></span>-->
           <!--              </a>-->
